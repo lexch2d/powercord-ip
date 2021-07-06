@@ -22,7 +22,7 @@ module.exports = class IP extends Plugin {
                 name: author,
             },
             description: content,
-            timestamp: ts,
+            // timestamp: ts,
             footer: {
                 text: footer,
                 icon_url: footerURL,
