@@ -1,0 +1,7 @@
+{
+  "name": "IP",
+  "version": "1.0.0",
+  "description": "View the location of a IP adress using a simple command in discord.",
+  "author": "1XC",
+  "license": "MIT"
+}
